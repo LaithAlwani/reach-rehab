@@ -8,23 +8,23 @@ export default function Footer() {
   return (
     <footer>
       <div className="social-links">
-        <a href="">
+        <a href="https://instagram.com/reach.rehab">
           <FaInstagram />
         </a>
-        <a href="">
+        <a href="https://www.youtube.com/channel/UC-yypLnEiwCHEZt0dax3HvA">
           <FaYoutube />
         </a>
-        <a href="">
+        <a href="https://www.tiktok.com/@reach.rehab">
           <FaTiktok />
         </a>
-        <a href="">
+        <a href="https://www.facebook.com/reachrehabbers/">
           <FaFacebook />
         </a>
-        <a href="">
+        <a href="https://pin.it/DF5U2Gr">
           <FaPinterest />
         </a>
       </div>
-      <span>&copy; Reach Rehab 2022</span>
+      <span>&copy; Reach Rehab 2022, Saskatchewan Canada</span>
     </footer>
   );
 }
